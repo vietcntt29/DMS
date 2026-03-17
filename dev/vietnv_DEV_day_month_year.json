@@ -26171,7 +26171,7 @@
 	},
 	"EXT.CSA_BVL_ITC_EML05": {
 		"kind": "entity",
-		"@Common.Label": "EML05 TVV Đạt chuẩn ",
+		"@Common.Label": "EML05 TVV Đạt chuẩn",
 		"@Analytics.query": true,
 		"@Analytics.dataCategory": {
 			"#": "CUBE"
